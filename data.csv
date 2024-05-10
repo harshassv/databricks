@@ -1,0 +1,59 @@
+Item Name,Variation Name,SKU,Description,Category,Weight (lb),Price,Option Value 1,Current Quantity,Day Sales,Location
+Espresso,Regular,ESP001,"A shot of intense, concentrated coffee served in a small cup.",Coffee,0.5,2.5,Regular,247,14,Philadelphia 40th street Near Drexel University
+Espresso,Regular,ESP001,"A shot of intense, concentrated coffee served in a small cup.",Coffee,0.5,2.5,Regular,75,16,Philadelphia 1st street
+Cappuccino,Small,CAP002,Espresso with steamed milk and a generous foam layer.,Coffee,0.6,3.5,Small,146,5,Philadelphia 40th street Near Drexel University
+Cappuccino,Small,CAP002,Espresso with steamed milk and a generous foam layer.,Coffee,0.6,3.5,Small,94,51,Philadelphia 1st street
+Cafe Latte,Regular,CLT003,"Espresso with steamed milk, topped with a thin layer of foam.",Coffee,0.7,4.0,Regular,120,4,Philadelphia 40th street Near Drexel University
+Cafe Latte,Regular,CLT003,"Espresso with steamed milk, topped with a thin layer of foam.",Coffee,0.7,4.0,Regular,110,5,Philadelphia 1st street
+Americano,Single Shot,AMS004,"Espresso diluted with hot water, creating a lighter-bodied coffee.",Coffee,0.6,3.0,Single Shot,130,7,Philadelphia 40th street Near Drexel University
+Americano,Single Shot,AMS004,"Espresso diluted with hot water, creating a lighter-bodied coffee.",Coffee,0.6,3.0,Single Shot,245,8,Philadelphia 1st street
+Mocha,Regular,MOCH005,"Espresso with steamed milk, cocoa powder, and topped with whipped cream.",Coffee,0.8,4.5,Regular,104,1,Philadelphia 40th street Near Drexel University
+Mocha,Regular,MOCH005,"Espresso with steamed milk, cocoa powder, and topped with whipped cream.",Coffee,0.8,4.5,Regular,88,22,Philadelphia 1st street
+Macchiato,Single Shot,MAC006,"Espresso ""stained"" with a small amount of steamed milk.",Coffee,0.4,2.75,Single Shot,140,1,Philadelphia 40th street Near Drexel University
+Macchiato,Single Shot,MAC006,"Espresso ""stained"" with a small amount of steamed milk.",Coffee,0.4,2.75,Single Shot,135,2,Philadelphia 1st street
+Flat White,Regular,FW007,"Espresso with velvety steamed milk, creating a balanced, creamy coffee.",Coffee,0.7,4.5,Regular,110,9,Philadelphia 40th street Near Drexel University
+Flat White,Regular,FW007,"Espresso with velvety steamed milk, creating a balanced, creamy coffee.",Coffee,0.7,4.5,Regular,100,7,Philadelphia 1st street
+Latte Macchiato,Tall,LM008,"Layered drink of steamed milk, espresso, and a hint of foam.",Coffee,0.8,4.75,Tall,120,3,Philadelphia 40th street Near Drexel University
+Latte Macchiato,Tall,LM008,"Layered drink of steamed milk, espresso, and a hint of foam.",Coffee,0.8,4.75,Tall,115,2,Philadelphia 1st street
+Croissant,Plain,CROIS009,"Buttery, flaky pastry perfect for breakfast or a light snack.",Pastries,0.3,2.0,Plain,200,8,Philadelphia 40th street Near Drexel University
+Croissant,Plain,CROIS009,"Buttery, flaky pastry perfect for breakfast or a light snack.",Pastries,0.3,2.0,Plain,190,6,Philadelphia 1st street
+Chocolate Croissant,Regular,CHCRO010,"Croissant filled with rich chocolate, a delightful treat for chocolate lovers.",Pastries,0.4,2.5,Regular,150,5,Philadelphia 40th street Near Drexel University
+Chocolate Croissant,Regular,CHCRO010,"Croissant filled with rich chocolate, a delightful treat for chocolate lovers.",Pastries,0.4,2.5,Regular,140,4,Philadelphia 1st street
+Almond Croissant,Regular,ALCRO011,Croissant filled with almond paste and topped with sliced almonds.,Pastries,0.4,2.75,Regular,120,8,Philadelphia 40th street Near Drexel University
+Almond Croissant,Regular,ALCRO011,Croissant filled with almond paste and topped with sliced almonds.,Pastries,0.4,2.75,Regular,115,7,Philadelphia 1st street
+Bagel,Plain,BAG013,"Classic New York style bagel, perfect for toasting and spreading with your favorite toppings.",Pastries,0.5,2.25,Plain,180,5,Philadelphia 40th street Near Drexel University
+Bagel,Plain,BAG013,"Classic New York style bagel, perfect for toasting and spreading with your favorite toppings.",Pastries,0.5,2.25,Plain,170,3,Philadelphia 1st street
+Blueberry Muffin,Regular,BBM014,"Moist muffin bursting with juicy blueberries, a delicious breakfast option.",Pastries,0.4,2.75,Regular,140,6,Philadelphia 40th street Near Drexel University
+Blueberry Muffin,Regular,BBM014,"Moist muffin bursting with juicy blueberries, a delicious breakfast option.",Pastries,0.4,2.75,Regular,135,4,Philadelphia 1st street
+Banana Bread,Slice,BB015,"Homemade banana bread slice, a comforting and satisfying treat.",Pastries,0.4,2.5,Slice,160,1,Philadelphia 40th street Near Drexel University
+Banana Bread,Slice,BB015,"Homemade banana bread slice, a comforting and satisfying treat.",Pastries,0.4,2.5,Slice,155,2,Philadelphia 1st street
+Ham and Cheese Croissant,Regular,HCC016,"Croissant filled with savory ham and melted cheese, a savory breakfast option.",Pastries,0.5,3.0,Regular,130,8,Philadelphia 40th street Near Drexel University
+Ham and Cheese Croissant,Regular,HCC016,"Croissant filled with savory ham and melted cheese, a savory breakfast option.",Pastries,0.5,3.0,Regular,125,6,Philadelphia 1st street
+Fruit Danish,Regular,FD017,"Danish pastry filled with a variety of seasonal fruits, perfect for a fruity indulgence.",Pastries,0.4,2.75,Regular,150,10,Philadelphia 40th street Near Drexel University
+Fruit Danish,Regular,FD017,"Danish pastry filled with a variety of seasonal fruits, perfect for a fruity indulgence.",Pastries,0.4,2.75,Regular,145,8,Philadelphia 1st street
+Spinach and Feta Quiche,Regular,SFQ018,"Quiche filled with spinach, feta cheese, and savory custard, a delightful brunch option.",Pastries,0.6,3.5,Regular,120,2,Philadelphia 40th street Near Drexel University
+Spinach and Feta Quiche,Regular,SFQ018,"Quiche filled with spinach, feta cheese, and savory custard, a delightful brunch option.",Pastries,0.6,3.5,Regular,115,1,Philadelphia 1st street
+Vegetable Frittata,Slice,VFS019,"Frittata made with seasonal vegetables and eggs, a satisfying and nutritious choice.",Pastries,0.5,3.25,Slice,140,8,Philadelphia 40th street Near Drexel University
+Vegetable Frittata,Slice,VFS019,"Frittata made with seasonal vegetables and eggs, a satisfying and nutritious choice.",Pastries,0.5,3.25,Slice,135,7,Philadelphia 1st street
+Avocado Toast,Regular,AVOTO020,"Sourdough toast topped with mashed avocado, a healthy and trendy breakfast option.",Pastries,0.6,4.0,Regular,100,7,Philadelphia 40th street Near Drexel University
+Avocado Toast,Regular,AVOTO020,"Sourdough toast topped with mashed avocado, a healthy and trendy breakfast option.",Pastries,0.6,4.0,Regular,95,6,Philadelphia 1st street
+Greek Yogurt Parfait,Regular,GYP021,"Layers of Greek yogurt, granola, and fresh fruit, a refreshing breakfast or snack option.",Pastries,0.5,3.75,Regular,110,10,Philadelphia 40th street Near Drexel University
+Greek Yogurt Parfait,Regular,GYP021,"Layers of Greek yogurt, granola, and fresh fruit, a refreshing breakfast or snack option.",Pastries,0.5,3.75,Regular,105,9,Philadelphia 1st street
+Iced Coffee,Regular,ICF022,"Chilled coffee served over ice cubes, a refreshing pick-me-up.",Coffee,0.7,3.5,Regular,90,12,Philadelphia 40th street Near Drexel University
+Iced Coffee,Regular,ICF022,"Chilled coffee served over ice cubes, a refreshing pick-me-up.",Coffee,0.7,3.5,Regular,85,11,Philadelphia 1st street
+Iced Latte,Regular,ICLT023,"Chilled espresso with cold milk served over ice cubes, a cool coffee indulgence.",Coffee,0.8,4.25,Regular,80,6,Philadelphia 40th street Near Drexel University
+Iced Latte,Regular,ICLT023,"Chilled espresso with cold milk served over ice cubes, a cool coffee indulgence.",Coffee,0.8,4.25,Regular,75,5,Philadelphia 1st street
+Iced Tea,Lemon,ITL024,"Chilled tea infused with lemon flavor, served over ice cubes, a refreshing beverage.",Beverages,0.7,3.0,Lemon,100,15,Philadelphia 40th street Near Drexel University
+Iced Tea,Lemon,ITL024,"Chilled tea infused with lemon flavor, served over ice cubes, a refreshing beverage.",Beverages,0.7,3.0,Lemon,95,14,Philadelphia 1st street
+Green Smoothie,Regular,GSM025,"Refreshing blend of spinach, kale, banana, and apple juice, a nutritious and energizing drink.",Beverages,0.8,4.5,Regular,70,8,Philadelphia 40th street Near Drexel University
+Green Smoothie,Regular,GSM025,"Refreshing blend of spinach, kale, banana, and apple juice, a nutritious and energizing drink.",Beverages,0.8,4.5,Regular,65,7,Philadelphia 1st street
+Berry Blast Smoothie,Regular,BBS026,"Vibrant mix of mixed berries, yogurt, and honey, a deliciously fruity treat.",Beverages,0.8,4.75,Regular,60,5,Philadelphia 40th street Near Drexel University
+Berry Blast Smoothie,Regular,BBS026,"Vibrant mix of mixed berries, yogurt, and honey, a deliciously fruity treat.",Beverages,0.8,4.75,Regular,55,4,Philadelphia 1st street
+Veggie Wrap,Regular,VWR027,"Whole wheat wrap filled with fresh vegetables, hummus, and feta cheese, a healthy and satisfying meal.",Wraps,0.7,5.0,Regular,75,3,Philadelphia 40th street Near Drexel University
+Veggie Wrap,Regular,VWR027,"Whole wheat wrap filled with fresh vegetables, hummus, and feta cheese, a healthy and satisfying meal.",Wraps,0.7,5.0,Regular,70,2,Philadelphia 1st street
+Chicken Caesar Wrap,Regular,CCWR028,"Grilled chicken, romaine lettuce, Parmesan cheese, and Caesar dressing wrapped in a flour tortilla.",Wraps,0.8,5.25,Regular,70,4,Philadelphia 40th street Near Drexel University
+Chicken Caesar Wrap,Regular,CCWR028,"Grilled chicken, romaine lettuce, Parmesan cheese, and Caesar dressing wrapped in a flour tortilla.",Wraps,0.8,5.25,Regular,65,3,Philadelphia 1st street
+Turkey Club Wrap,Regular,TCWR029,"Sliced turkey breast, bacon, lettuce, tomato, and mayonnaise wrapped in a flour tortilla.",Wraps,0.8,5.0,Regular,80,6,Philadelphia 40th street Near Drexel University
+Turkey Club Wrap,Regular,TCWR029,"Sliced turkey breast, bacon, lettuce, tomato, and mayonnaise wrapped in a flour tortilla.",Wraps,0.8,5.0,Regular,75,5,Philadelphia 1st street
+Quinoa Salad,Regular,QNS030,"Mixed greens, quinoa, cherry tomatoes, cucumber, and feta cheese tossed in a lemon vinaigrette.",Salads,0.7,6.0,Regular,60,2,Philadelphia 40th street Near Drexel University
+Quinoa Salad,Regular,QNS030,"Mixed greens, quinoa, cherry tomatoes, cucumber, and feta cheese tossed in a lemon vinaigrette.",Salads,0.7,6.0,Regular,55,1,Philadelphia 1st street

@@ -1,0 +1,15 @@
+streamlit
+dataclasses
+back
+pangea
+duckduckgo_search
+pyttsx3
+openai
+groq
+google-auth
+gspread
+google
+pandas
+google-generativeai
+markdown2
+pdfkit
